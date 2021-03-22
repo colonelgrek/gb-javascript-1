@@ -7,7 +7,7 @@
 План сдачи дз по урокам:
 - [x] Основы языка JavaScript (lesson1)
 - [x] Основные операторы JavaScript (lesson2)
-- [ ] Циклы, массивы, структуры данных (lesson3)
+- [x] Циклы, массивы, структуры данных (lesson3)
 - [ ] Объекты в JavaScript (lesson4)
 - [ ] Введение в DOM (lesson5)
 - [ ] Обработка событий в JavaScript (lesson6)
