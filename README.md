@@ -8,11 +8,11 @@
 - [x] Основы языка JavaScript (lesson1)
 - [x] Основные операторы JavaScript (lesson2)
 - [x] Циклы, массивы, структуры данных (lesson3)
-- [ ] Объекты в JavaScript (lesson4)
-- [ ] Введение в DOM (lesson5)
-- [ ] Обработка событий в JavaScript (lesson6)
-- [ ] Урок-практикум (lesson7)
-- [ ] Анонимные функции, замыкания (lesson8)
+- [x] Объекты в JavaScript (lesson4)
+- [x] Введение в DOM (lesson5)
+- [x] Обработка событий в JavaScript (lesson6)
+- [x] Урок-практикум (lesson7)
+- [x] Анонимные функции, замыкания (lesson8)
 
 Структура наименования репозитория:
 - `gb` - название учебного заведения (geekbrains)
